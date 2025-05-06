@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crypto Survival Playbook</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0f0f0f;
+      color: #ffffff;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+    }
+    h1, h2 {
+      color: #f94144;
+    }
+    .cta-button {
+      background-color: #f94144;
+      color: white;
+      padding: 1rem 2rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 1.5rem;
+    }
+    .warning-box {
+      background-color: #1e1e1e;
+      border-left: 4px solid #f94144;
+      padding: 1rem;
+      margin-top: 2rem;
+      font-weight: bold;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li::before {
+      content: "✅";
+      margin-right: 0.5rem;
+      color: #00ff99;
+    }
+    footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      text-align: center;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>The Dollar Is Dying. Crypto Is the Lifeboat.</h1>
+    <h2>Will You Survive?</h2>
+    <p>
+      Download the <strong>Crypto Survival Playbook</strong> — your essential PDF guide to protecting and multiplying your wealth when fiat fails.
+    </p>
+
+    <ul>
+      <li>Step-by-step wallet setup & privacy guide</li>
+      <li>How to live day-to-day on crypto — food, rent, bills</li>
+      <li>Crypto investment plan built for financial collapse</li>
+      <li>5 survival side hustles that earn BTC or USDT</li>
+      <li>Bonus: How to go fully off-grid with crypto (offline wallets, Monero, Tails OS)</li>
+    </ul>
+
+    <div class="warning-box">
+      💥 Banks freeze. Governments ban withdrawals. Currencies collapse.<br>
+      If you're not ready — you lose everything.<br><br>
+      This isn't theory. It's happening globally. <br>
+      <strong>Get armed before it's too late.</strong>
+    </div>
+
+    <a href="Crypto_Survival_Playbook.pdf" class="cta-button" download>📥 Download the Crypto Survival Toolkit PDF</a>
+
+    <footer>
+      Created by Victor King | © 2025 All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
